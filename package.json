@@ -14,6 +14,7 @@
     "url": "https://github.com/JeffRisberg/RE10"
   },
   "dependencies": {
+    "axios": "^0.11.1",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-router": "^2.4.1"
