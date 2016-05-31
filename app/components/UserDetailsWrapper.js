@@ -10,8 +10,8 @@ function UserDetailsWrapper (props) {
   )
 }
 
-UserDetailsWrapper.propType = {
-  header: PropTypes.string.isRequired
+UserDetailsWrapper.header = {
+  header: PropTypes.string.isRequired,
 }
 
 module.exports = UserDetailsWrapper;
