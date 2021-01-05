@@ -14,7 +14,7 @@
     "url": "https://github.com/JeffRisberg/RE10"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "react": "^16.12.0",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.12.0",
